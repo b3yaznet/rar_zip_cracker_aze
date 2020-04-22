@@ -11,7 +11,7 @@ print("""
 1) RAR Şifrə Qırmaq 
 2) ZİP Şifrə Qırmaq
 3) Qırılan Şifrələri Göstər
-
+--- Tərcümə edən: Elman Kərimli || emikridat@gmail.com ---
 
 
 """)
