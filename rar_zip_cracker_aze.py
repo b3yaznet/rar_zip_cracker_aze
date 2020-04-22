@@ -6,12 +6,13 @@ import os
 os.system("sudo apt install figlet")
 os.system("clear")
 os.system("figlet RAR-ZIP CRACKER AZE")
+print("--- || https://www.b3yaz.net || ---")
 print("""
 
 1) RAR Şifrə Qırmaq 
 2) ZİP Şifrə Qırmaq
 3) Qırılan Şifrələri Göstər
---- Tərcümə edən: Elman Kərimli || emikridat@gmail.com ---
+
 
 
 """)
